@@ -16,7 +16,7 @@ public class E1_11 {
     }
 
     public static void main(String[] args) {
-        boolean[][] arr = new boolean[][]{
+        boolean[][] arr = new boolean[][] {
                 {false, true},
                 {true, true},
                 {false, false},
